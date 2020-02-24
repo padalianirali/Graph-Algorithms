@@ -1,2 +1,1 @@
-# Graph-Algorithms
-Implementing Graph Algorithms in Python
+Implementing Breath First Search and Depth First Search algorithms in Python
